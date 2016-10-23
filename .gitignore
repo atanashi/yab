@@ -3,3 +3,8 @@
 # IDE
 nbproject/*
 .idea/*
+
+# Composer
+vendor/*
+composer.lock
+composer.json
